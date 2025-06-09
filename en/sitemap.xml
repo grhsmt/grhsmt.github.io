@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://example.com/</loc>
-    <lastmod>2025-06-09T13:04:16+08:00</lastmod>
+    <lastmod>2025-06-09T13:59:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -20,11 +20,11 @@
                 href="https://example.com/"
                 />
   </url><url>
-    <loc>https://example.com/p/newnew/</loc>
-    <lastmod>2025-06-09T13:04:16+08:00</lastmod>
+    <loc>https://example.com/p/new/</loc>
+    <lastmod>2025-06-09T13:59:05+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
-    <lastmod>2025-06-09T13:04:16+08:00</lastmod>
+    <lastmod>2025-06-09T13:59:05+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -108,10 +108,10 @@
                 href="https://example.com/tags/"
                 />
   </url><url>
-    <loc>https://example.com/tags/themes/</loc>
+    <loc>https://example.com/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/themes/</loc>
+    <loc>https://example.com/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.com/p/placeholder-text/</loc>
